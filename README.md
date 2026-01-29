@@ -1,0 +1,1 @@
+This Python program adds two numbers and prints the result.
