@@ -1,0 +1,3 @@
+Content from branch A
+
+Content from branch B
